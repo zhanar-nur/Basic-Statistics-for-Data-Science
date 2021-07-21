@@ -9,5 +9,5 @@ There are three main areas of Data Science: statistics/mathematics, programming 
 This analysis is my practice to master Basic Statistics for Data Science techniques which are fundamental steps to ensure accurate findings.
 
 ### Data
-Stroke Prediction Dataset will be used for the analysis. The dataset is public and available in Kaggle at this link.
+Stroke Prediction Dataset will be used for the analysis. The dataset is public and available in Kaggle at [this link](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset).
 
